@@ -4,10 +4,19 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
-const Hero = (props) => (
-  <div>
-    Hero
-  </div>
+const Hero = () => (
+  <Section row nopadding>
+    <LeftSection>
+      <SectionTitle>
+        Welcome to <br/>
+        My Personal Portfolio
+      </SectionTitle>
+      <SectionText>
+        Algun texto aca con una mini description, ahora es solo para relleno!
+      </SectionText>
+      <Button onClick={() => window.location = 'http://google.com'}>About me</Button>
+    </LeftSection>
+  </Section>
 );
 
 export default Hero;
