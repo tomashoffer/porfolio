@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         Algun texto aca con una mini description, ahora es solo para relleno!
       </SectionText>
-      <Button onClick={() => window.location = 'http://google.com'}>About me</Button>
+      <a href="#about"><Button>About me</Button></a>
     </LeftSection>
   </Section>
 );
