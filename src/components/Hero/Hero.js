@@ -8,11 +8,12 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle>
-        Welcome to <br/>
-        My Personal Portfolio
+        Hi, my name is <br/>
+        Tomas
       </SectionTitle>
       <SectionText>
-        Algun texto aca con una mini description, ahora es solo para relleno!
+         Welcome to My Personal Portfolio
+         
       </SectionText>
       <a href="#about"><Button>About me</Button></a>
     </LeftSection>

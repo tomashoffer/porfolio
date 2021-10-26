@@ -21,7 +21,7 @@ export const projects = [
   },
   {
     title: 'Image Bank',
-    description: "This is an app where you can search for images of what you want! Thanks to an API you can use these photos for your own projects for free.",
+    description: "This is an app where you can search for images of what you want! Thanks to an API you can use these photos for your own projects.",
       image: '/images/imgbank.jpg',
       tags: ['Javascript', 'React', 'API'],
       language: 'Spanish',
