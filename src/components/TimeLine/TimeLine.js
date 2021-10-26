@@ -43,9 +43,9 @@ const Timeline = () => {
   // }, []);
 
   return (
-    <div>
-      Timeline
-    </div>
+    <Section>
+      
+    </Section>
   );
 };
 

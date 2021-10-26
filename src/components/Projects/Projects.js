@@ -7,6 +7,8 @@ import { projects } from '../../constants/constants';
 const Projects = () => (
   <Section nopadding id='projects'>
     <SectionDivider/>
+    <br />
+    <SectionTitle>Projects</SectionTitle>
     <GridContainer>
       {projects.map(({ id, image, title, description, tags, source, visit}) => (
         <div>
