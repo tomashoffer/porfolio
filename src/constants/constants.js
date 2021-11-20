@@ -1,4 +1,14 @@
 export const projects = [
+    {
+    title: 'Twitter',
+    description: "Here i made a new version of Twitter where you can make your on profile, make your tweets and follow to your firends",
+    image: '/images/tweeter.jpg',
+    tags: ['React', 'Firebase'],
+    language: 'English',
+    visit: 'https://twitteritc-59f3f.web.app/',
+    code: 'https://github.com/tomashoffer/twitterITC',
+    id: 3,
+  },
   {
     title: 'Look your Song',
     description: "in this project you can search for songs and information about your favorite musicians and bands",
@@ -28,16 +38,6 @@ export const projects = [
     visit: 'https://imagesbank.netlify.app/',
     code: 'https://github.com/tomashoffer/buscadorimagenes',
     id: 2,
-  },
-  {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    language: 'Spanish',
-    visit: 'https://google.com',
-    code: 'https://google.com',
-    id: 3,
   },
 ];
 
