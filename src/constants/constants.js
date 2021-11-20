@@ -14,7 +14,7 @@ export const projects = [
     description:"In this project you can see the current values of the 10 most important cryptocurrencies such as Bitcoin, ETH, XRP ... You can obtain the values in different currencies.",
     image: '/images/crypto.jpg',
     tags: ['Javascript', 'React', 'API'],
-    language: 'Spanish',
+    language: 'English',
     visit: 'https://cryptoquoteapp.netlify.app/',
     code: 'https://github.com/tomashoffer/cryptoquoter',
     id: 1,
