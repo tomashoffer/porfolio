@@ -1,7 +1,7 @@
 export const projects = [
     {
     title: 'Twitter',
-    description: "Here i made a new version of Twitter where you can make your on profile, make your tweets and follow to your firends",
+    description: "Here i made a new version of Twitter where you can make your own profile, create your tweets and follow your firends",
     image: '/images/tweeter.jpg',
     tags: ['React', 'Firebase'],
     language: 'English',
