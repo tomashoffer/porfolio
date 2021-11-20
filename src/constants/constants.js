@@ -7,7 +7,7 @@ export const projects = [
     language: 'English',
     visit: 'https://twitteritc-59f3f.web.app/',
     code: 'https://github.com/tomashoffer/twitterITC',
-    id: 3,
+    id: 0,
   },
    {
     title: 'Quote Crypto',
@@ -20,6 +20,16 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Task Manager',
+    description: "This is an app where you can search for images of what you want! Thanks to an API you can use these photos for your own projects.",
+      image: '/images/mern.jpg',
+      tags: ['Node', 'React', 'Mongo', 'Express'],
+      language: 'Spanish',
+    visit: 'https://adminprojects.netlify.app/',
+    code: 'https://github.com/tomashoffer/adminprojects',
+    id: 2,
+  },
+  {
     title: 'Look your Song',
     description: "in this project you can search for songs and information about your favorite musicians and bands",
     image: '/images/looksong.jpg',
@@ -27,19 +37,10 @@ export const projects = [
     language: 'Spanish',
     visit: 'https://lookyoursong.netlify.app/',
     code: 'https://github.com/tomashoffer/band-songs',
-    id: 0,
+    id: 3,
   },
  
-  {
-    title: 'Image Bank',
-    description: "This is an app where you can search for images of what you want! Thanks to an API you can use these photos for your own projects.",
-      image: '/images/imgbank.jpg',
-      tags: ['Javascript', 'React', 'API'],
-      language: 'Spanish',
-    visit: 'https://imagesbank.netlify.app/',
-    code: 'https://github.com/tomashoffer/buscadorimagenes',
-    id: 2,
-  },
+
 ];
 
 // export const TimeLineData = [
