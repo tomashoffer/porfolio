@@ -9,6 +9,16 @@ export const projects = [
     code: 'https://github.com/tomashoffer/twitterITC',
     id: 3,
   },
+   {
+    title: 'Quote Crypto',
+    description:"In this project you can see the current values of the 10 most important cryptocurrencies such as Bitcoin, ETH, XRP ... You can obtain the values in different currencies.",
+    image: '/images/crypto.jpg',
+    tags: ['Javascript', 'React', 'API'],
+    language: 'Spanish',
+    visit: 'https://cryptoquoteapp.netlify.app/',
+    code: 'https://github.com/tomashoffer/cryptoquoter',
+    id: 1,
+  },
   {
     title: 'Look your Song',
     description: "in this project you can search for songs and information about your favorite musicians and bands",
@@ -19,16 +29,7 @@ export const projects = [
     code: 'https://github.com/tomashoffer/band-songs',
     id: 0,
   },
-  {
-    title: 'Quote Crypto',
-    description:"In this project you can see the current values of the 10 most important cryptocurrencies such as Bitcoin, ETH, XRP ... You can obtain the values in different currencies.",
-    image: '/images/crypto.jpg',
-    tags: ['Javascript', 'React', 'API'],
-    language: 'Spanish',
-    visit: 'https://cryptoquoteapp.netlify.app/',
-    code: 'https://github.com/tomashoffer/cryptoquoter',
-    id: 1,
-  },
+ 
   {
     title: 'Image Bank',
     description: "This is an app where you can search for images of what you want! Thanks to an API you can use these photos for your own projects.",
