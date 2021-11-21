@@ -3,7 +3,7 @@ export const projects = [
     title: 'Twitter',
     description: "Here i made a new version of Twitter where you can make your own profile, create your tweets and follow your firends",
     image: '/images/tweeter.jpg',
-    tags: ['React', 'Firebase'],
+    tags: ['React', 'JavaScript', 'Firebase'],
     language: 'English',
     visit: 'https://twitteritc-59f3f.web.app/',
     code: 'https://github.com/tomashoffer/twitterITC',
