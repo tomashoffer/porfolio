@@ -21,7 +21,7 @@ export const projects = [
   },
   {
     title: 'Task Manager',
-    description: "This is an app where you can search for images of what you want! Thanks to an API you can use these photos for your own projects.",
+    description: "An application to manage your projects where you can add tasks and their statuses. Thanks to this you will not forget any task without doing!",
       image: '/images/mern.jpg',
       tags: ['Node', 'React', 'Mongo', 'Express'],
       language: 'Spanish',
