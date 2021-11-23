@@ -32,7 +32,7 @@ const Header = () =>  (
     </li>      
     <li>
     <Link href="#">
-        <NavLink><a href="../doc/resume.pdf" download>Download CV</a></NavLink>
+       <a href="../doc/resume.pdf" download>Download CV</a>
       </Link>
     </li>      
   </Div2>
