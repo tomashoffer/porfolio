@@ -30,11 +30,6 @@ const Header = () =>  (
         <NavLink>About</NavLink>
       </Link>
     </li>      
-    <li>
-    <Link href="#">
-       <a href="../doc/resume.pdf" download>Download CV</a>
-      </Link>
-    </li>      
   </Div2>
   <Div3>
     <SocialIcons href="https://github.com/tomashoffer" target='_blank'>
