@@ -18,7 +18,7 @@ const Footer = () => {
       </LinkColumn>
       <LinkColumn>
         <LinkTitle>Location</LinkTitle>
-        <LinkItem>Beersheva, Israel</LinkItem>
+        <LinkItem>Tel Aviv, Israel</LinkItem>
       </LinkColumn>
       <LinkColumn>
         <LinkTitle>Languages</LinkTitle>
